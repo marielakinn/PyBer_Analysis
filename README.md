@@ -11,7 +11,7 @@ To complete this, the following was calculated:
 
 After the completion of the above, the CEO V. Isualize requested a multiple line graph that shows total weekly fares for each city type.
 
-# Purpose 
+### Purpose 
 
 The purpose of this project is to create a summary DataFrame of the ride-sharing data by city type that allows us to create a multiple line graph that shows total weekly fares for each city type. 
 We will use the graphs to explain how the data differs by city type.
